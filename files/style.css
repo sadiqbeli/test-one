@@ -1,0 +1,54 @@
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 10px 0;
+  }
+  
+  .slideshow-container {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+  
+  .mySlides {
+    display: none;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  .logo{
+
+    width: 24%;
+  }
+
+  .social-media{
+
+    width: 5%;
+    height: auto;
+    display: inline;
+  }
+  .image-note {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .social-media {
+    margin-top: 10px;
+  }
+  
+  .social-media a {
+    margin: 0 5px;
+  }
